@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TO-DO App</string>
+    <string name="activity_main_title">Дела...</string>
+    <string name="add_button_text">Добавить дело</string>
+    <string name="edit_text">Введите содержание дела</string>
+    <string name="load_button_text">Сохранить</string>
+    <string name="save_button_text">Загрузить</string>
+    <string name="delete">Delete</string>
+</resources>
